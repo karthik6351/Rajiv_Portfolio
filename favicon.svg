@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="cardioGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d9488" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#071324" />
+  <path d="M51.5 22.8a12.3 12.3 0 0 0-17.5 0l-2 2-2-2a12.3 12.3 0 0 0-17.5 17.5l2 2L32 59.8l17.5-17.5 2-2a12.3 12.3 0 0 0 0-17.5z" stroke="url(#cardioGrad)" stroke-width="2.5" fill="rgba(13, 148, 136, 0.15)"/>
+  <path d="M14 34h8l3.5-9 6.5 18 4.5-11 3.5 4h10" stroke="#2dd4bf" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
